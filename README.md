@@ -1,4 +1,4 @@
-# cardBet
+# Card Deck Bet
 Let's you guess the card that will randomly be selected by the computer and bet selected amount from you wallet. You might save your or load your game progress or reset the statistics.
 
 Image of the main window
