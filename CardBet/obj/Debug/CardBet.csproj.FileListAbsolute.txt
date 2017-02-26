@@ -1,0 +1,34 @@
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.exe.config
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.exe
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.pdb
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.csprojResolveAssemblyReference.cache
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.Form1.resources
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.Properties.Resources.resources
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.csproj.GenerateResource.Cache
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.exe
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.pdb
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\bin\Debug\en\CardBet.resources.dll
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.Form1.en.resources
+c:\users\adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\en\CardBet.resources.dll
+C:\Users\Adrian\documents\visual studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.exe.manifest
+C:\Users\Adrian\documents\visual studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.application
+C:\Users\Adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.TrustInfo.xml
+C:\Users\Adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.exe.manifest
+C:\Users\Adrian\documents\visual studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.application
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.exe.config
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.exe
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.pdb
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.exe.manifest
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.application
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.exe
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\bin\Debug\CardBet.pdb
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\bin\Debug\en\CardBet.resources.dll
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.csprojResolveAssemblyReference.cache
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.Form1.resources
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.Properties.Resources.resources
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.Form1.en.resources
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.csproj.GenerateResource.Cache
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\en\CardBet.resources.dll
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.TrustInfo.xml
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.exe.manifest
+F:\Format Windows 10 Październik 2015\Visual Studio 2013\Projects\CardBet\CardBet\obj\Debug\CardBet.application
